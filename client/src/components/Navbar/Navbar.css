@@ -1,0 +1,58 @@
+
+
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.navbar {
+  height: 100px;
+}
+
+#iPhone-Nav {
+  height: 38px;
+  
+}
+
+#avatar {
+  height: 33px;
+  position: relative;
+  left: 17px;
+  top: 11px;
+  z-index: 2;
+}
+
+#search {
+  height: 17px;
+  z-index: 2;
+  position: relative;
+  left: 64px;
+  bottom: 15px;
+}
+
+#search-text {
+  position: relative;
+  bottom: 41px;
+  left: 92px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  color: #9D9DA4;
+}
+
+#calendar {
+  height: 33px;
+  position: relative;
+  bottom: 91px;
+  left: 326px;
+}
+
+
+#line {
+  height: 1px;
+  position: relative;
+  bottom: 87px;
+}
+
+#search-bar {
+  position: relative;
+  right: 1px;
+}

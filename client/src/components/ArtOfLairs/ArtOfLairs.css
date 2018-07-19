@@ -1,0 +1,97 @@
+#up-arrow {
+    height: 22px;
+    position: relative;
+    top: 13px;
+    left: 7px;
+}
+
+#hero {
+    height: 207px;
+    width: 375px;
+    background-color: antiquewhite;
+    position: relative;
+    top: 24px;
+}
+
+#Today {
+    height: 17px;
+    position: relative;
+    top: 13px;
+    left: 37%;
+}
+
+#Share {
+    height: 21px;
+    position: relative;
+    top: 14px;
+    left: 253px;
+}
+
+#Barbershop {
+    position: relative;
+    top: 44px;
+    left: 30px;
+    width: 200px;
+    line-height: 32px;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+#Location {
+    position: relative;
+    top: 49px;
+    left: 30px;
+}
+
+#Rating {
+    height: 13px;
+    position: relative;
+    top: 33px;
+    left: 28px;
+}
+
+#Rating-Index {
+    position: relative;
+    top: 15px;
+    left: 46px;
+    color: black;
+}
+
+#number{
+    color:#8F95A3;
+}
+
+#Menu {
+    position: relative;
+    top: 28px;
+    left: 0px;
+    height: 77px;
+}
+
+#Barbers-Title {
+    position: relative;
+    top: 57px;
+    left: 29px;
+    font-size: 19px;
+}
+
+#Cell1 {
+    height: 100px;
+    position: relative;
+    top: 78px;
+    left: 29px;
+}
+
+#Cell2 {
+    height: 100px;
+    position: relative;
+    top: 101px;
+    left: 29px;
+}
+
+#Cell3 {
+    height: 100px;
+    position: relative;
+    top: 125px;
+    left: 29px;
+}

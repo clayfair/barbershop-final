@@ -1,0 +1,20 @@
+#near-me {
+    position: relative; 
+    bottom: 77px;
+    left: 20px;
+    font-size: 17px;
+  }
+  
+  #arrow {
+    height: 17px;
+    position: relative;
+    z-index: 2;
+    bottom: 78px;
+    left: 22px;
+  }
+  
+  #filter {
+    position: relative;
+    right: 5px;
+    bottom: 4px;
+  }
