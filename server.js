@@ -1,8 +1,6 @@
 var express = require("express");
 var bodyParser = require("body-parser");
 var mongoose = require("mongoose");
-var path = require("path");
-var db = require("./Models");
 var app = express();
 const PORT = process.env.PORT || 3001;
 var Shops = require("./Models/Shops");
