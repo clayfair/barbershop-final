@@ -3,7 +3,7 @@ var bodyParser = require("body-parser");
 var mongoose = require("mongoose");
 var app = express();
 const PORT = process.env.PORT || 3001;
-var Shops = require("./Models/Shops");
+var Shops = require("./models/Shops");
 
 // Define middleware here
 app.use(bodyParser.urlencoded({ extended: true }));
